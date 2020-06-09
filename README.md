@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Avaliação Mirante</h1>
     <p>
-        Este projeto consiste numa API para utilização no projeto <a href="https://github.com/amandabezerra/avaliacao-mirante-frontend)">Avaliação Mirante</a>.
+        Este projeto consiste numa API para utilização no projeto <a href="https://github.com/amandabezerra/avaliacao-mirante-frontend">Avaliação Mirante</a>.
     </p>
     <div>
         <a href="#tecnologias">Tecnologias</a>
